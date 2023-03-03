@@ -2,6 +2,7 @@
 
 It contains a landing page, login and sign-up pages. the landing page was developed by other contributor while the login sign up pages were made by me.
 
+
 ## Deployment
 
 Deployed Website: https://afshankhan11.github.io/Charity/
